@@ -71,7 +71,7 @@
 <img align="center" src="https://raw.githubusercontent.com/BhagyaRana/BhagyaRana/main/images/icons/Social/linked-in-alt.svg" alt="AjayMakvana" height="30" width="40" />
 </a>
 
-<a href="https://drive.google.com/file/d/1yMEpUotSPQlfPPtLvW1N66KyZ2QaX5mU/view" target="blank" style="margin-left:10px">
+<a href="https://drive.google.com/file/d/1W_dse5nKmHyrC-MmZuV-agINT6aZJOnm/view" target="blank" style="margin-left:10px">
 <img align="center" src="https://raw.githubusercontent.com/BhagyaRana/BhagyaRana/main/images/icons/Social/google.svg" alt="AjayMakvana" height="30" width="40" />
 </a>
 
