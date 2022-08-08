@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Makvana</h1>
 
-<h3 align="center">I am a Third-year Computer Engineering Undergraduate pursuing my B.Tech Degree from NIT Surat. I am Web Developer, Competitive Programmer and Am Passionate About Coding.</h3>
+<h3 align="center">I am a Final-year Computer Engineering Undergraduate pursuing my B.Tech Degree from NIT Surat. I am Web Developer, Competitive Programmer and Am Passionate About Coding.</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ajay-makvana&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyarana" />
